@@ -75,7 +75,6 @@ public class Solution4 {
 
     // Question 10
       // I don't understand the meaning of the title
-
 }
 
 // Question 9
@@ -84,7 +83,6 @@ class Frog extends Animal{
         System.out.println("I am jumping");
     }
 }
-
 
 // Question 11
 @RestController
