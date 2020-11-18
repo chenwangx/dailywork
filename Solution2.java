@@ -37,9 +37,6 @@ public class Solution2 {
     }
 }
 
-
-
-
 // Question 5
 class Fish extends Animal{
     public Fish() {
@@ -70,7 +67,6 @@ class Fish extends Animal{
     void showColor(){
         System.out.println(name+" are "+ bodyType+" and "+color);
     }
-
 }
 
 // Question 6
