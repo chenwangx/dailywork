@@ -1,10 +1,6 @@
 package com.acrabsoft.web;
 
-import lombok.SneakyThrows;
 import org.junit.Test;
-
-import java.util.Timer;
-import java.util.TimerTask;
 
 public class Solution3 {
     int metamorphosis = 5; // Indicates the point in time when the caterpillar metamorphoses into a butterfly
